@@ -1,0 +1,4 @@
+passwd {{userId}} <<EOF
+{{newPasswd}}
+{{newPasswd}}
+EOF

@@ -1,0 +1,1 @@
+useradd {{userId}} -p {{password}} -s {{loginShell}} -d {{homeDirectory}}
